@@ -19,5 +19,5 @@ I'm a passionate fullstack engineer who loves building scalable web applications
 <a href="http://www.github.com/zonejay">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonejay&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
-
+- LeetCode: [![LeetCode user zyj356a](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fzyj356a%2Fcn%2F&logo=leetcode&logoColor=yellow)](https://leetcode.cn/zyj356a/)
 - TypeHero: [![TypeHero user @zonejay](https://img.shields.io/endpoint?url=https%3A%2F%2Ftypehero-badge.vercel.app%2Fapi%2Fusers%2F%40zonejay%3Ftype%3DsolvedOverTotal&labelColor=%23555555&color=%2397CA00&style=flat-square&label=Solved)](https://typehero.dev/@zonejay/)
